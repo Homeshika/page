@@ -1,0 +1,129 @@
+*{
+margin: 0;
+padding: 0;
+}
+.aa{
+    background-color:rgb(250, 251, 252);
+    border: solid 10px black;
+}
+.bb{
+    text-align: center;
+    background-color: white;
+}
+.cc{
+    display: grid;
+    grid-template-rows: 10% 90%;
+    border: 10px solid black;
+    height: 600px;
+    width: 1000px;
+    margin-left:240px;
+}
+.dd{
+word-spacing: 10px;
+text-align: center;
+}
+.dd a:hover{
+color:blue;
+}
+.ee{
+    background-image: url(pic\ a.jpg);
+   background-size: cover;
+   border: 2px solid white;
+
+}
+.ff{
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    border: 2px solid rgb(250, 246, 246);
+    position:relative;
+    bottom:50px ;
+    margin-left: 550px;
+
+}
+.gg{
+    display: grid;
+    grid-template-columns: 50% 40%;
+    background-color: white;
+    height: 400px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-size: cover;
+}
+.hh{
+    background-image: url(photo9.jpg);
+    background-size: cover;
+   border-right: 5px solid white;
+}
+.jj{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 500px;
+}
+.kk{
+    text-align:center ;
+    padding-top: 200px;
+    background-image: url(pp.jpg);
+    background-size: cover;
+    color: white;
+    border-right: 5px solid white;
+    margin-left: 230px;
+}
+.kk button{
+    background-color: brown;
+    color: white;
+}
+.kk button:hover{
+    color: aqua;
+}
+.ll{
+    text-align: center;
+    background-image: url(ii.jpg);
+    background-size: cover;
+    color: white;
+    padding-top: 200px;
+    margin-right: 230px;
+}
+.ll button{
+    background-color: brown;
+    color: white;
+    
+}
+.ll button:hover{
+    color: aqua;
+}
+.mm{
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: 30% 23% 30%;
+    height: 400px;
+}
+.nn{
+    background-image:url(pp.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.oo{
+background-color: white;
+color: black;
+padding: 50px;
+}
+.oo button{
+    
+    background-color: brown;
+    color: aliceblue;
+}
+.pp{
+    background-image:url(uu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.qq{
+    background-color: gray;
+    border: 2px solid grey;
+    text-align: center;
+    width: 1050px;
+    margin-left:225px;
+}
